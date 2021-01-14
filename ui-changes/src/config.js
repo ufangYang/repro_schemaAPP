@@ -4,5 +4,5 @@ module.exports = {
   banner: 'This protocol is under construction.',
   startButton: 'Start',
   assetsPublicPath: '/repro_schemaAPP/',
-  backendServer: 'null'
+  backendServer: 'https://sig.mit.edu/vb'
 }
